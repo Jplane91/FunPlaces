@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C41A1AEF-552B-4F9C-8EA3-236D6AF7E4DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunPlaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunPlaces/Program.cs">
+    <Files>
+      <File FileName="FunPlaces/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunPlaces" expanded="True">
+            <Node name="FunPlaces" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
